@@ -1,17 +1,35 @@
 # Hi there, I'm Jonathan Ung 👋
 
 ## 👨‍💻 About Me
-I'm a passionate software developer with a keen interest in game design, AI, and robotics. Currently, I'm working on a variety of different projects.
+I'm a passionate software developer with a keen interest in AI, Data Science, Networking and Embedded Systems.
 
 ## 🛠️ Skills
-- **Languages:** Python, TypeScript, JavaScript, C++, C#, SQL, Java, GD Script
+- **Languages:** Python, TypeScript, JavaScript, C++, C#, SQL, Java, GD Script, Dart
+- **Tools:** QT6, Protobuf, MERN, Flask.py Next.js, PSQL, MySQL, SQLite3, JavaFX, Godot4, Unity, Flutter, Tensorflow (Learning), Keras (Learning), PyTorch (Learning)
 
-## 🌟 Projects
-- *Web Developent* -  **[ChronoCal](https://github.com/jonathanung/chronocal):** A feature-rich calendar application with AI-powered task creation and expense tracking.
+## 🌟 Relevant Experience:
+- *Distributed Systems, Embedded Systems, Autonomous Movement, and Team Management* - SFU Robot Soccer Team Lead
+    - Team lead for [SFURS Software Team](https://gitlab.com/sfurs/software), spearheading the development of connections of base stations, referee states, and autonomous agent
+- *Game Development & Teaching* - Code Ninjas Richmond, Code Sensei
+    - Learned ins and outs of developing games in Unity to teach kids how to use the game engine
+- *App Development* - MVP IT Solutions, Software Engineering Intern
+    - Developed applications using Flutter and using Firestore & Firebase as the backend
+
+## 🖥️ Standalone Projects
+- *Web Developent* -  **[ChronoCal (WIP)](https://github.com/jonathanung/chronocal):** A feature-rich calendar application with AI-powered task creation and expense tracking. Developed with my cousin [Nicholas Ung](https://github.com/nicholasung)
+
+## 🏫 Course Projects
+- *Web Development* - **[FABCycle x CMPT 276 (WIP)]():**
+
+## 💻 Hackathon Projects
 - *Web Development* -  **[Chaoscribe](https://github.com/jonathanung/chaoscribe):** A news categorization tool developed for ChaosHacks2024, categorizing articles based on chaos levels.
-- *Game Development* -  **[ShreddedWizards](https://github.com/jonathanung/ShreddedWizards):** A news categorization tool developed for ChaosHacks2024, categorizing articles based on chaos levels.
+- *Web Development* - **[AccessMart](https://github.com/jonathanung/AccessMart):** A tool developed during NWHacks2024 using MappedIn, helping shoppers navigate their way though stores.
+- *Game Development* -  **[ShreddedWizards](https://github.com/jonathanung/ShreddedWizards):** A game created during StormHacks2024, using a fighting game style, with usable items and powerups.
 
+## 👨‍💻 Mini Projects
+- *Sockets* - **[ChattyThingy](https://github.com/jonathanung/chattythingy):** A simple chatroom used to learn how to work with sockets
 
 ## 📫 Contact Me
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jonathan-ung-1193a2238/)
 - **Resume:** [Resume]()
+- **Email:** [jonathank.ung@icloud.com](mailto:jonathank.ung@icloud.com)
