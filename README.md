@@ -23,9 +23,9 @@ I'm a passionate software developer with a keen interest in AI, Data Science, Ne
 - *Web Development* - **[FABCycle x CMPT 276 (WIP)]():**
 
 ## 💻 Hackathon Projects
-- *Web Development* -  **[Chaoscribe](https://github.com/jonathanung/chaoscribe):** A news categorization tool developed for ChaosHacks2024, categorizing articles based on chaos levels.
-- *Web Development* - **[AccessMart](https://github.com/jonathanung/AccessMart):** A tool developed during NWHacks2024 using MappedIn, helping shoppers navigate their way though stores.
-- *Game Development* -  **[ShreddedWizards](https://github.com/jonathanung/ShreddedWizards):** A game created during StormHacks2024, using a fighting game style, with usable items and powerups.
+- *Web Development* -  **[Chaoscribe](https://devpost.com/software/chaoscribe):** A news categorization tool developed for ChaosHacks2024, categorizing articles based on chaos levels.
+- *Web Development* - **[AccessMart](https://devpost.com/software/accessmart):** A tool developed during NWHacks2024 using MappedIn, helping shoppers navigate their way though stores.
+- *Game Development* -  **[ShreddedWizards](https://devpost.com/software/shredded-wizards):** A game created during StormHacks2024, using a fighting game style, with usable items and powerups.
 
 ## 👨‍💻 Mini Projects
 - *Sockets* - **[ChattyThingy](https://github.com/jonathanung/chattythingy):** A simple chatroom used to learn how to work with sockets
