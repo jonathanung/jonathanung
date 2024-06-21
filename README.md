@@ -17,6 +17,7 @@ I'm a passionate software developer with a keen interest in AI, Data Science, Ne
 
 ## 🖥️ Standalone Projects
 - *Web Developent* -  **[ChronoCal (WIP)](https://github.com/jonathanung/chronocal):** A feature-rich calendar application with AI-powered task creation and expense tracking. Developed with my cousin [Nicholas Ung](https://github.com/nicholasung)
+- *Application, Bot* -  **[Trascribr (WIP)](https://github.com/jonathanung/Transcribr):** A discord bot designed to record, transcribe, and summarize your meetings. 
 
 ## 🏫 Course Projects
 - *Web Development* - **[FABCycle x CMPT 276 (WIP)]():**
