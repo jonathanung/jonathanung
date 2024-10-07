@@ -20,17 +20,21 @@ I'm a passionate software developer with a keen interest in AI, Data Science, Ne
 - *Application, Bot* -  **[Trascribr](https://github.com/jonathanung/Transcribr):** A discord bot designed to record, transcribe, and summarize your meetings. 
 
 ## 🏫 Course Projects
-- *Web Development* - **[FABCycle x CMPT 276 (WIP)]():**
+- *Web Development* - **[FABCycle x CMPT 276 (WIP)](https://github.com/niomedev/sewjo):** A fabric and sewing pattern tracking app made for FABCycle
 
 ## 💻 Hackathon Projects
 - *Web Development* -  **[Chaoscribe](https://devpost.com/software/chaoscribe):** A news categorization tool developed for ChaosHacks2024, categorizing articles based on chaos levels.
 - *Web Development* - **[AccessMart](https://devpost.com/software/accessmart):** A tool developed during NWHacks2024 using MappedIn, helping shoppers navigate their way though stores.
 - *Game Development* -  **[ShreddedWizards](https://devpost.com/software/shredded-wizards):** A game created during StormHacks2024, using a fighting game style, with usable items and powerups.
-- *Web Development* - **[Pignance](https://devpost.com/software/pignance):** A web app to help kids with finance tracking and literacy using a home-hosted Gemma2 LLM and OCR.
+- *Web Development* - **[Pignance](https://devpost.com/software/pignance):** A web app created during StormHacks2024V2 to help kids with finance tracking and literacy using a home-hosted Gemma2 LLM and OCR.
 
 ## 👨‍💻 Mini Projects
 - *Sockets* - **[ChattyThingy](https://github.com/jonathanung/chattythingy):** A simple chatroom used to learn how to work with sockets
 - *LLM Setup* -**[Local LLM API](https://github.com/jonathanung/local-llm-api):** A simple FastAPI endpoint to open up LLM prompts to be run on a home computer
+
+## 🙋 Hackathon volunteering
+- *Organizer* - Langara Hacks! 2023
+- *Judge* - SFU Fall Hacks 2024
 
 ## 📫 Contact Me
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jonathan-ung-1193a2238/)
