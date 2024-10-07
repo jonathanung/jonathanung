@@ -20,7 +20,7 @@ I'm a passionate software developer with a keen interest in AI, Data Science, Ne
 - *Application, Bot* -  **[Trascribr](https://github.com/jonathanung/Transcribr):** A discord bot designed to record, transcribe, and summarize your meetings. 
 
 ## 🏫 Course Projects
-- *Web Development* - **[FABCycle x CMPT 276 (WIP)](https://github.com/niomedev/sewjo):** A fabric and sewing pattern tracking app made for FABCycle
+- *Web Development* - **[FABCycle x CMPT 276](https://github.com/niomedev/sewjo):** A fabric and sewing pattern tracking app made for FABCycle
 
 ## 💻 Hackathon Projects
 - *Web Development* -  **[Chaoscribe](https://devpost.com/software/chaoscribe):** A news categorization tool developed for ChaosHacks2024, categorizing articles based on chaos levels.
