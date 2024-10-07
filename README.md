@@ -30,6 +30,7 @@ I'm a passionate software developer with a keen interest in AI, Data Science, Ne
 
 ## 👨‍💻 Mini Projects
 - *Sockets* - **[ChattyThingy](https://github.com/jonathanung/chattythingy):** A simple chatroom used to learn how to work with sockets
+- *LLM Setup* -**[Local LLM API](https://github.com/jonathanung/local-llm-api):** A simple FastAPI endpoint to open up LLM prompts to be run on a home computer
 
 ## 📫 Contact Me
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jonathan-ung-1193a2238/)
