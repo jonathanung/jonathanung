@@ -17,7 +17,7 @@ I'm a passionate software developer with a keen interest in AI, Data Science, Ne
 
 ## 🖥️ Standalone Projects
 - *Web Developent* -  **[ChronoCal (WIP)](https://github.com/jonathanung/chronocal):** A feature-rich calendar application with AI-powered task creation and expense tracking.
-- *Application, Bot* -  **[Trascribr (WIP)](https://github.com/jonathanung/Transcribr):** A discord bot designed to record, transcribe, and summarize your meetings. 
+- *Application, Bot* -  **[Trascribr](https://github.com/jonathanung/Transcribr):** A discord bot designed to record, transcribe, and summarize your meetings. 
 
 ## 🏫 Course Projects
 - *Web Development* - **[FABCycle x CMPT 276 (WIP)]():**
@@ -26,6 +26,7 @@ I'm a passionate software developer with a keen interest in AI, Data Science, Ne
 - *Web Development* -  **[Chaoscribe](https://devpost.com/software/chaoscribe):** A news categorization tool developed for ChaosHacks2024, categorizing articles based on chaos levels.
 - *Web Development* - **[AccessMart](https://devpost.com/software/accessmart):** A tool developed during NWHacks2024 using MappedIn, helping shoppers navigate their way though stores.
 - *Game Development* -  **[ShreddedWizards](https://devpost.com/software/shredded-wizards):** A game created during StormHacks2024, using a fighting game style, with usable items and powerups.
+- *Web Development* - **[Pignance](https://devpost.com/software/pignance):** A web app to help kids with finance tracking and literacy using a home-hosted Gemma2 LLM and OCR.
 
 ## 👨‍💻 Mini Projects
 - *Sockets* - **[ChattyThingy](https://github.com/jonathanung/chattythingy):** A simple chatroom used to learn how to work with sockets
