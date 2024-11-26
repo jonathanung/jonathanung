@@ -31,9 +31,9 @@ I'm a passionate software developer with a keen interest in AI, Data Science, Ne
 - *Web Development* - **[Pignance](https://devpost.com/software/pignance):** A web app created during StormHacks2024V2 to help kids with finance tracking and literacy using a home-hosted Gemma2 LLM and OCR.
 
 ## 👨‍💻 Mini Projects
-- *Web Developent* - **[sked](https://github.com/jonathanung/sked):** A basic calendar application. Used to learn CRUD; first somewhat large web-dev project.
 - *Sockets* - **[ChattyThingy](https://github.com/jonathanung/chattythingy):** A simple chatroom used to learn how to work with sockets
 - *LLM Setup* -**[Local LLM API](https://github.com/jonathanung/local-llm-api):** A simple FastAPI endpoint to open up LLM prompts to be run on a home computer - This was built as a helper for Pignance during StormHacks2024V2
+- *Web Developent* - **[sked](https://github.com/jonathanung/sked):** A basic calendar application. Used to learn CRUD; first somewhat large web-dev project.
 
 ## 🙋 Hackathon volunteering
 - *Organizer* - Langara Hacks! 2023
