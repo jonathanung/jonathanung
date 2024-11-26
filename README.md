@@ -16,8 +16,10 @@ I'm a passionate software developer with a keen interest in AI, Data Science, Ne
     - Developed applications using Flutter and using Firestore & Firebase as the backend
 
 ## 🖥️ Standalone Projects
-- *Web Developent* -  **[ChronoCal (WIP)](https://github.com/jonathanung/chronocal):** A feature-rich calendar application with AI-powered task creation and expense tracking.
-- *Application, Bot* -  **[Trascribr](https://github.com/jonathanung/Transcribr):** A discord bot designed to record, transcribe, and summarize your meetings. 
+- *CARLA, PyQt5 Application* - **[AutoStop (WIP)](https://github.com/jonathanung/AutoStop):** Real time emergency braking application for CARLA car simulator to be designed using AI
+- *Web Developent, Application(Swift, Kotlin)* - **[ChronoCal (WIP)](https://github.com/jonathanung/chronocal):** A feature-rich calendar application with AI-powered task creation and expense tracking.
+- *PyTorch Q-Learning* - **[BlackjackNN](https://github.com/jonathanung/blackjackNN):** A Q-Learning RL agent for blackjack, designed to use optimal strategies to learn to play the game in a mathematically correct manner
+- *Application, Discord Bot* -  **[Trascribr](https://github.com/jonathanung/Transcribr):** A discord bot designed to record, transcribe, and summarize your meetings. 
 
 ## 🏫 Course Projects
 - *Web Development* - **[FABCycle x CMPT 276](https://github.com/niomedev/sewjo):** A fabric and sewing pattern tracking app made for FABCycle
