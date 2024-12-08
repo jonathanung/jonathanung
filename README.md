@@ -41,6 +41,5 @@ I'm a passionate software developer with a keen interest in AI, Data Science, Ne
 
 ## 📫 Contact Me
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jonathan-ung-1193a2238/)
-- **Resume:** [Resume]()
 - **Email:** [jonathank.ung@icloud.com](mailto:jonathank.ung@icloud.com)
 - **Personal Website:** [jonathanung.ca](https:/jonathanung.ca)
