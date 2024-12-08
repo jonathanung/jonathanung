@@ -37,7 +37,7 @@ I'm a passionate software developer with a keen interest in AI, Data Science, Ne
 
 ## 🙋 Hackathon volunteering
 - *Organizer* - Langara Hacks! 2023
-- *Judge* - SFU Fall Hacks 2024
+- *Judge* - SFU Fall Hacks 2024, Hack For Youth
 
 ## 📫 Contact Me
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jonathan-ung-1193a2238/)
