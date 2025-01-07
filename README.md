@@ -43,3 +43,5 @@ I'm a passionate software developer with a keen interest in AI, Data Science, Ne
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jonathan-ung-1193a2238/)
 - **Email:** [jonathank.ung@icloud.com](mailto:jonathank.ung@icloud.com)
 - **Personal Website:** [jonathanung.ca](https://jonathanung.ca)
+
+*Sometimes my GitHub will have times of inactivity. I am usually somewhat active to contributing to the [SFU Robot Soccer codebase on GitLab](https://gitlab.com/sfurs/software), and my activity for that can [be found here](https://gitlab.com/jonathan.keith.ung).
