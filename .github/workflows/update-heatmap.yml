@@ -1,5 +1,8 @@
 name: Update Combined Heatmap
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Every day at 1 am UTC
