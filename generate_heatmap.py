@@ -107,18 +107,18 @@ def draw_heatmap(cal_map, filename="combined-heatmap.svg"):
         size=(cols*(cell+gap), rows*(cell+gap)),
         profile='tiny'
     )
+    colors = ["#ebedf0", "#c6e48b", "#7bc96f", "#239a3b", "#196127"]
+
     for x, week in enumerate(weeks):
         for y in range(7):
-            try:
-                d = week[y]
-            except IndexError:
+            if y >= len(week): 
                 continue
+            d = week[y]
             c = cal_map.get(str(d), 0)
-            # scale fill: 0 → #ebedf0, max → #216e39
-            intensity = int((c / maxv)**0.5 * 4)  # sqrt scale
-            colors = ["#ebedf0", "#c6e48b", "#7bc96f", "#239a3b", "#196127"]
+            intensity = int((c / maxv)**0.5 * (len(colors)-1))
             fill = colors[intensity]
-            dwg.add(dwg.Rect(
+            # ↓ lowercase “rect” instead of “Rect”
+            dwg.add(dwg.rect(
                 insert=(x*(cell+gap), y*(cell+gap)),
                 size=(cell, cell),
                 fill=fill,
