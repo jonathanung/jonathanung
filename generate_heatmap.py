@@ -85,41 +85,65 @@ def draw_heatmap(cal_map, filename="combined-heatmap.svg"):
     start = end - timedelta(days=365)
     # Build list of all dates
     dates = [start + timedelta(days=i) for i in range(366)]
-    # Group by week: ISO calendar week starting Mondays
+    
+    # Group by week: Sunday to Saturday
     weeks = []
-    week = []
+    current_week = []
+    
     for d in dates:
-        # pad the first week so that its length is multiple of 7
-        if d.weekday() == 0 and week:
-            weeks.append(week)
-            week = []
-        week.append(d)
-    weeks.append(week)
-
+        # Start a new week on Sunday (weekday=6)
+        if d.weekday() == 6 and current_week:  # 6 is Sunday in Python's datetime
+            weeks.append(current_week)
+            current_week = []
+        current_week.append(d)
+    
+    # Add the last week if it's not empty
+    if current_week:
+        weeks.append(current_week)
+    
     # SVG parameters
     cell = 12
-    gap  = 4
-    rows = 7
+    gap = 4
+    rows = 7  # Sunday to Saturday
     cols = len(weeks)
-    maxv = max(cal_map.values()) or 1
-
+    maxv = max(cal_map.values()) if cal_map else 1
+    
+    # Calculate total contributions
+    total_contributions = sum(cal_map.values())
+    
+    # Create the SVG drawing with additional space for the total count
     dwg = svgwrite.Drawing(filename,
-        size=(cols*(cell+gap), rows*(cell+gap)),
+        size=(cols*(cell+gap) + 100, rows*(cell+gap) + 20),  # Extra space for the total count
         profile='tiny'
     )
     colors = ["#ebedf0", "#c6e48b", "#7bc96f", "#239a3b", "#196127"]
-
+    
+    # Add total contributions text at top right
+    dwg.add(dwg.text(
+        f"Total: {total_contributions}",
+        insert=(cols*(cell+gap) - 10, 15),
+        fill="black",
+        font_size="12px",
+        text_anchor="end"
+    ))
+    
+    # Order of days: Sunday(6), Monday(0), Tuesday(1), Wednesday(2), Thursday(3), Friday(4), Saturday(5)
+    day_order = [6, 0, 1, 2, 3, 4, 5]  # Mapping from position to weekday
+    
     for x, week in enumerate(weeks):
-        for y in range(7):
-            if y >= len(week): 
+        for y, weekday in enumerate(day_order):
+            # Find the day in this week that matches the current weekday
+            matching_days = [d for d in week if d.weekday() == weekday]
+            if not matching_days:
                 continue
-            d = week[y]
+                
+            d = matching_days[0]
             c = cal_map.get(str(d), 0)
-            intensity = int((c / maxv)**0.5 * (len(colors)-1))
+            intensity = int((c / maxv)**0.5 * (len(colors)-1)) if c > 0 else 0
             fill = colors[intensity]
-            # ↓ lowercase “rect” instead of “Rect”
+            
             dwg.add(dwg.rect(
-                insert=(x*(cell+gap), y*(cell+gap)),
+                insert=(x*(cell+gap), y*(cell+gap) + 20),  # Add offset for the total count
                 size=(cell, cell),
                 fill=fill,
                 stroke='none'
